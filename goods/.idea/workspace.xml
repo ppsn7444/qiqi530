@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e7e210b-4955-4ba6-8391-455e53acc2b8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="yiqing-goods: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="yiqing-goods: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="biz_in_stock_info: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29mxvjxHwnaL2q23MIKdC8xgbt3" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="YiQingGoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="goods-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.goods.YiQingGoodsApplication" />
+      <option name="ENABLE_JMX_AGENT" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e7e210b-4955-4ba6-8391-455e53acc2b8" name="Default Changelist" comment="" />
+      <created>1653732295427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653732295427</updated>
+      <workItem from="1653732299400" duration="528000" />
+      <workItem from="1653732911285" duration="5775000" />
+      <workItem from="1653744413783" duration="8056000" />
+      <workItem from="1653753198856" duration="367000" />
+      <workItem from="1653757319579" duration="9697000" />
+      <workItem from="1653797058892" duration="34257000" />
+      <workItem from="1653890242554" duration="8450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/goods-business/src/main/java/com/goods/business/service/imp/ProductListServiceImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/goods-business/src/main/java/com/goods/business/service/imp/ProductListServiceImpl.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/goods-business/src/main/java/com/goods/business/service/imp/ProductListServiceImpl.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/goods-business/src/main/java/com/goods/business/service/imp/ProductListServiceImpl.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/goods-business/src/main/java/com/goods/business/service/imp/ProductListServiceImpl.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

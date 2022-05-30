@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="goods-system" />
+        <module name="goods-business" />
+        <module name="goods-web" />
+        <module name="goods-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="goods" target="1.8" />
+      <module name="goods-business" target="1.8" />
+      <module name="goods-common" target="1.8" />
+      <module name="goods-system" target="1.8" />
+      <module name="goods-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="goods-business" options="-parameters" />
+      <module name="goods-common" options="-parameters" />
+      <module name="goods-system" options="-parameters" />
+      <module name="goods-web" options="-parameters" />
+    </option>
+  </component>
+</project>
